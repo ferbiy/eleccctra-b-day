@@ -1,1 +1,1 @@
- --->  ferbiy.github.io/eleccctra-b-day/
+ --->  http://ferbiy.github.io/eleccctra-b-day/
