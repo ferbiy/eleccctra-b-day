@@ -26,7 +26,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: #fff;
-  background-image: url("./card-background-mb-demo.jpg");
+  background-image: url("./card-background-mb.jpg");
   background-size: cover;
   border-radius: 25px;
   box-shadow: 17px 17px 22px rgba(0, 0, 0, 0.55);
@@ -38,21 +38,22 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  width: 80%;
 }
 
 .card--title {
-  width: 90%;
+  /* width: 90%; */
   font-size: 2rem;
   margin-bottom: 0.5rem;
 }
-.card--wish {
-  width: 80%;
+.card--inspiration {
+  /* width: 80%; */
   font-size: 1.2rem;
 }
 
 @media (min-width: 992px) {
   .card {
-    background-image: url("./card-background-demo.jpg");
+    background-image: url("./card-background.jpg");
     width: 50%;
     height: 50%;
     font-weight: bold;
